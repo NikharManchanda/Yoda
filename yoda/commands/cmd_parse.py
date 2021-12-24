@@ -83,3 +83,4 @@ def cli():
     prepend_line(solpath,"// Url: "+url+"\n"+"// Time Limit: "+timelimit+'\n'+"// Memory Limit: " +memorylimit)
     os.system("subl "+solpath)    
     click.secho("🎊 Test Cases Parsed 🎊",fg='bright_green')
+    
