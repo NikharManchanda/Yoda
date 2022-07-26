@@ -100,8 +100,7 @@ $ yoda atcoder
 ```
 ```bash
 $ yoda codechef 
-```
-![yoda cmd](https://www.linkpicture.com/q/LPic61bcf6839123d1303457515.png)     
+```     
 Now comes the main part :  
 1.)To harvest your submissions from the Codeforces platform.  
 Type the following command:  
