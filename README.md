@@ -43,7 +43,7 @@ Contests
 
 ## Platforms
 
-Harwest currently has extensive support for the following platforms:
+Yoda currently has extensive support for the following platforms:
 * [Codeforces](https://codeforces.com/)
 * [AtCoder](https://atcoder.jp/)
 * [CodeChef](https://www.codechef.com/)
